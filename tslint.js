@@ -161,6 +161,8 @@ module.exports = {
         'allowSingleLine': true
       }
     ],
-    'object-curly-spacing': [true, 'always']
+    'object-curly-spacing': [true, 'always'],
+    'space-before-function-paren': false,
+    'import-spacing': true
   }
 }
